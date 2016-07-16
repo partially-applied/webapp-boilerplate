@@ -1,0 +1,9 @@
+{
+  "directorify": {
+    "inputFile": "./dist/main.js",
+    "saveFile": "./src.js",
+    "source": "./src",
+    "compile": "./dist",
+    "exclude": "./external.js"
+  }
+}

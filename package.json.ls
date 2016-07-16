@@ -1,5 +1,5 @@
 
-name:'@partially-applied/webappBoilerPlate'
+name:'@partially-applied/'
 version:'0.0.1'
 description:' '
 main:'dist/main.js'

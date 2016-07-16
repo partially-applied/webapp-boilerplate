@@ -26,10 +26,4 @@ H.nv = require '../vendors/nv.d3'
 
 H.d3 = require '../vendors/d3'
 
-H.colors = require '@partially-applied/material-colors'
-
-H.table = require '@partially-applied/material-table'
-
-H.dropdown = require '@partially-applied/material-dropdown'
-
 module.exports = H

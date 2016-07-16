@@ -1,0 +1,6 @@
+{
+  "directorify": {
+    "inputFile": "./external.js",
+    "saveFile": "../static.js"
+  }
+}

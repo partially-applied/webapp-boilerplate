@@ -1,0 +1,20 @@
+{
+  "name": "@partially-applied/webappBoilerPlate",
+  "version": "0.0.1",
+  "description": " ",
+  "main": "dist/main.js",
+  "dependencies": {
+    "snabbdom": "*",
+    "ramda": "*",
+    "velocity-commonjs": "*",
+    "nanoajax": "*",
+    "most": "*",
+    "lodash": "*",
+    "snabbdom-to-html": "*"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "keyword": "livescript"
+}
